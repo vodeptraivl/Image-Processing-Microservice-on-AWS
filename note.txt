@@ -1,0 +1,6 @@
+chmod +x install_aws.sh
+
+./install_aws.sh
+
+open file /root/.aws/credentials
+pass key.
